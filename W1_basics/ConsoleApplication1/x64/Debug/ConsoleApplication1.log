@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\ACER\Desktop\SED\W1_basics\ConsoleApplication1\ConsoleApplication1.cpp(535,16): warning C4101: 'request_houseRatingScore': unreferenced local variable
+C:\Users\ACER\Desktop\SED\W1_basics\ConsoleApplication1\ConsoleApplication1.cpp(533,16): warning C4101: 'request_creditPoint': unreferenced local variable
+C:\Users\ACER\Desktop\SED\W1_basics\ConsoleApplication1\ConsoleApplication1.cpp(713,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ACER\Desktop\SED\W1_basics\ConsoleApplication1\ConsoleApplication1.cpp(714,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ACER\Desktop\SED\W1_basics\ConsoleApplication1\ConsoleApplication1.cpp(1122,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\ACER\Desktop\SED\W1_basics\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

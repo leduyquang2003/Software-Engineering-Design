@@ -1,0 +1,31 @@
+Devadavid,Nguyen Tuong Khang,0815315449,sieunhantim,500,0,0,0,NULL,Sai Gon,2 floors,Available,04/10/2003
+username1|username2|username3
+
+
+
+
+
+
+
+username1,usernam2,...
+
+
+
+class Request{
+    
+    Member* sender;
+    int status;
+
+}
+
+string line
+while(getline(file, line)){
+    
+    <pass line to user>
+
+    getline(file, line)
+    <get token from file> 
+    -> got vector of tokens2
+
+
+} 

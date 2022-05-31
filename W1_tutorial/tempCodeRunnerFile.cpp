@@ -1,0 +1,1 @@
+(-b + sqrt(discriminant))/(2 * a)
