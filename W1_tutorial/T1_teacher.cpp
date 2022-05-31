@@ -6,7 +6,7 @@ int main()
 {
     double a, b, c;
     // << = insertion 
-    cout << "Enter a, b, c for equation ax^2 + bx + c = 0" << endl;
+    cout << "Enter a, b, c, d for equation ax^2 + bx + c = 0" << endl;
     // >> = extraction
     cin >> a >> b >> c;
 
